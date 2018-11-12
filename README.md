@@ -4,14 +4,14 @@
   #The bully argorithm will be used to elect a leader among replication managers (Servers)
 
   Client  
-    -Will be written i C#  
+    - Will be written i C#  
   
   Front end  
-    -Will be written i C++  
+    - Will be written i C++  
   
   Server  
-    -Will be written i C++  
-    -The server will use passive replication  
+    - Will be written i C++  
+    - The server will use passive replication  
 
   Message flow:
     1. Messages will be sent from a client to the front end  
@@ -20,4 +20,4 @@
     4. The replication manager sends replies to the clients involved  
 
   #Potential features:  
-    -Statistics and match results/current state in a sqllite database  
+    - Statistics and match results/current state in a sqllite database  
