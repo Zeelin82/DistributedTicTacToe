@@ -4,7 +4,7 @@
   The bully argorithm will be used to elect a leader among replication managers (Servers)
 
   Client  
-    * Will be written i C#  
+    - Will be written i C#  
   
   Front end  
     * Will be written i C++  
