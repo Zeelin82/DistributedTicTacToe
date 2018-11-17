@@ -1,0 +1,10 @@
+D:\GameConcept\DistributedTicTacToe\DistributedTicTacToe\DistributedTicTacToe\bin\Debug\DistributedTicTacToe.exe.config
+D:\GameConcept\DistributedTicTacToe\DistributedTicTacToe\DistributedTicTacToe\bin\Debug\DistributedTicTacToe.exe
+D:\GameConcept\DistributedTicTacToe\DistributedTicTacToe\DistributedTicTacToe\bin\Debug\DistributedTicTacToe.pdb
+D:\GameConcept\DistributedTicTacToe\DistributedTicTacToe\DistributedTicTacToe\obj\Debug\DistributedTicTacToe.csprojAssemblyReference.cache
+D:\GameConcept\DistributedTicTacToe\DistributedTicTacToe\DistributedTicTacToe\obj\Debug\DistributedTicTacToe.Properties.Resources.resources
+D:\GameConcept\DistributedTicTacToe\DistributedTicTacToe\DistributedTicTacToe\obj\Debug\DistributedTicTacToe.csproj.GenerateResource.cache
+D:\GameConcept\DistributedTicTacToe\DistributedTicTacToe\DistributedTicTacToe\obj\Debug\DistributedTicTacToe.csproj.CoreCompileInputs.cache
+D:\GameConcept\DistributedTicTacToe\DistributedTicTacToe\DistributedTicTacToe\obj\Debug\DistributedTicTacToe.exe
+D:\GameConcept\DistributedTicTacToe\DistributedTicTacToe\DistributedTicTacToe\obj\Debug\DistributedTicTacToe.pdb
+D:\GameConcept\DistributedTicTacToe\DistributedTicTacToe\DistributedTicTacToe\obj\Debug\DistributedTicTacToe.View.resources
